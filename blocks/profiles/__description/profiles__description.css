@@ -1,0 +1,6 @@
+.profiles__description {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: 30px;
+}
